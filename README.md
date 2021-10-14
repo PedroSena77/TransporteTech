@@ -36,6 +36,7 @@ Tal formato, tornava o processo lento tendo como principal motivo a não comunic
 
 # Contribuição
 
+Leia o arquivo CONTRIBUTING.md para saber detalhes sobre o nosso código de conduta e o processo de envio de solicitações pull (Pull Request) para nós.
 
 # Autores
 <div>
