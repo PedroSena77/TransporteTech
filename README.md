@@ -17,13 +17,13 @@ Tal formato, tornava o processo lento tendo como principal motivo a não comunic
 # Índice
 
 1. [Sobre ](https://github.com/PedroSena77/TransporteTech/blob/main/README.md#sobre-o-projeto)
-3. Sumário
-4. Requisitos Funcionais
-5. Tecnologias Usadas
-6. Contribuição
-7. Autores
-8. Licença
-9. Agradecimentos
+2. [Sumário](https://github.com/PedroSena77/TransporteTech#%C3%ADndice)
+3. [Requisitos Funcionais](https://github.com/PedroSena77/TransporteTech#requisitos-funcionais)
+4. [Tecnologias Usadas](https://github.com/PedroSena77/TransporteTech#tecnologias-usadas)
+5. [Contribuição](https://github.com/PedroSena77/TransporteTech#contribui%C3%A7%C3%A3o)
+6. [Autores](https://github.com/PedroSena77/TransporteTech#autores)
+7. [Licença](https://github.com/PedroSena77/TransporteTech#licen%C3%A7a)
+8. [Agradecimentos](https://github.com/PedroSena77/TransporteTech#agradecimentos)
 
 # Requisitos Funcionais
  
