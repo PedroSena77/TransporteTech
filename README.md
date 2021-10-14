@@ -24,11 +24,11 @@ Tal formato, tornava o processo lento tendo como principal motivo a não comunic
 
 # Requisitos Funcionais
  
- 📌 Gerenciamento de jornada de motoristas
- 📌 Gerenciamento de cálculo de gastos 
- 📌 Gerenciamento de relatórios de frotas
- 📌 Gerenciamento de dados de clientes
- 📌 Gerenciamento de abastecimentos de conjuntos Mecânicos
+- 📌 Gerenciamento de jornada de motoristas
+- 📌 Gerenciamento de cálculo de gastos 
+- 📌 Gerenciamento de relatórios de frotas
+- 📌 Gerenciamento de dados de clientes
+- 📌 Gerenciamento de abastecimentos de conjuntos Mecânicos
  
 # Tecnologias Usadas
 
