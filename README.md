@@ -11,9 +11,6 @@ A ideia de escolher este tema veio logo após o relato da Mariane, em que ela in
 
 Tal formato, tornava o processo lento tendo como principal motivo a não comunicação eficiente entre os setores, pois cada um realizava um tipo de controle (o que gerava atraso nas análises, entregas e informações redundantes ou irrelevantes).  
 
-
-🚧 Em desenvolvimento . . .
-
 # Índice
 
 1. [Sobre ](https://github.com/PedroSena77/TransporteTech/blob/main/README.md#sobre-o-projeto)
@@ -29,10 +26,14 @@ Tal formato, tornava o processo lento tendo como principal motivo a não comunic
  
 # Tecnologias Usadas
 
+
+
 # Contribuição
 
 
 # Autores
+
+https://github.com/Rodrigoduartemendes
 
 # Exemplo
 
