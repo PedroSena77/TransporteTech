@@ -38,23 +38,24 @@ Tal formato, tornava o processo lento tendo como principal motivo a não comunic
 
 
 # Autores
+<div>
+ <table>
+  <tr>
+   <td align="center"><a href="https://github.com/PedroSena77"><img src="https://avatars.githubusercontent.com/u/90586396?v=4" width="100px;" alt=""/><br /><sub><b>Ryan Castner</b></sub></a><br /><a href="https://github.com/testing-library/react-testing-library/commits?author=audiolion" title="Documentation">📖</a></td>
+   
+   
+   
+   
+   
+   
+   
+  </tr> 
+ </table>
+</div>
 
-- https://github.com/Rodrigoduartemendes 
-- https://github.com/ArthurOOliveira
-- https://github.com/Serpa27
-- https://github.com/vinicios-batista
-- https://github.com/Kevmorn
-- https://github.com/PedroSena77
 
 # Exemplo
 
 # Licença
-
-
-
-
-
-        
-          
 
 # Agradecimentos
