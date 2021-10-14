@@ -50,7 +50,7 @@ Tal formato, tornava o processo lento tendo como principal motivo a não comunic
 </div>
 
 
-# Exemplo
+
 
 # Licença
 
