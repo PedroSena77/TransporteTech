@@ -24,6 +24,12 @@ Tal formato, tornava o processo lento tendo como principal motivo a não comunic
 
 # Requisitos Funcionais
  
+ 📌 Gerenciamento de jornada de motoristas
+ 📌 Gerenciamento de cálculo de gastos 
+ 📌 Gerenciamento de relatórios de frotas
+ 📌 Gerenciamento de dados de clientes
+ 📌 Gerenciamento de abastecimentos de conjuntos Mecânicos
+ 
 # Tecnologias Usadas
 
 
@@ -34,8 +40,11 @@ Tal formato, tornava o processo lento tendo como principal motivo a não comunic
 # Autores
 
 https://github.com/Rodrigoduartemendes
-
+https://github.com/ArthurOOliveira
 https://github.com/Serpa27
+https://github.com/vinicios-batista
+https://github.com/Kevmorn
+https://github.com/PedroSena77
 
 # Exemplo
 
