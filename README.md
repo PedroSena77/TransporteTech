@@ -34,6 +34,7 @@ Tal formato, tornava o processo lento tendo como principal motivo a não comunic
 # Autores
 
 https://github.com/Rodrigoduartemendes
+https://github.com/Serpa27
 
 # Exemplo
 
