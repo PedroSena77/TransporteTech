@@ -16,14 +16,14 @@ Tal formato, tornava o processo lento tendo como principal motivo a não comunic
 
 # Índice
 
-[1. Sobre](Sobre o Projeto)
-2. Sumário
-3. Requisitos Funcionais
-4. Tecnologias Usadas
-5. Contribuição
-6. Autores
-7. Licença
-8. Agradecimentos
+1. [Sobre ](https://github.com/PedroSena77/TransporteTech/blob/main/README.md#sobre-o-projeto)
+3. Sumário
+4. Requisitos Funcionais
+5. Tecnologias Usadas
+6. Contribuição
+7. Autores
+8. Licença
+9. Agradecimentos
 
 # Requisitos Funcionais
  
