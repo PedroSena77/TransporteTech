@@ -54,4 +54,8 @@ Tal formato, tornava o processo lento tendo como principal motivo a não comunic
 
 # Licença
 
+
+Este projeto está licenciado sob a [Licença Apache](https://github.com/PedroSena77/TransporteTech/blob/main/LICENSE), consulte o arquivo LICENSE.md para mais detalhes.
+
+
 # Agradecimentos
