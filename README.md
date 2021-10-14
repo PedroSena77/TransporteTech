@@ -16,14 +16,14 @@ Tal formato, tornava o processo lento tendo como principal motivo a não comunic
 
 # Índice
 
-Sobre
-Sumário
-Requisitos Funcionais
-Tecnologias Usadas
-Contribuição
-Autores
-Licença
-Agradecimentos
+1. Sobre
+2. Sumário
+3. Requisitos Funcionais
+4. Tecnologias Usadas
+5. Contribuição
+6. Autores
+7. Licença
+8. Agradecimentos
 
 # Requisitos Funcionais
  
