@@ -42,7 +42,7 @@ Tal formato, tornava o processo lento tendo como principal motivo a não comunic
  <table>
   <tr>
    <td align="center"><a href="https://github.com/PedroSena77"><img src="https://avatars.githubusercontent.com/u/90586396?v=4" width="100px;" alt=""/><br /><sub><b>Pedro Sena</b></sub></a></td>
-   
+   <td align="center"><a href="https://github.com/Serpa27"><img src="https://avatars.githubusercontent.com/u/90014363?v=4" width="100px;" alt=""/><br /><sub><b>Mariane Serpa</b></sub></a></td>
    
    
    
