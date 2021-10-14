@@ -1,6 +1,6 @@
 # TransporteTech
 
-                              ![image](https://user-images.githubusercontent.com/90586396/137403899-16cb391e-c382-4a5d-a04c-fe5a883c4d27.png)
+![image](https://user-images.githubusercontent.com/90586396/137403899-16cb391e-c382-4a5d-a04c-fe5a883c4d27.png)
 
 # Sobre o Projeto
 
@@ -16,7 +16,7 @@ Tal formato, tornava o processo lento tendo como principal motivo a não comunic
 
 # Índice
 
-1. Sobre
+[1. Sobre](Sobre o Projeto)
 2. Sumário
 3. Requisitos Funcionais
 4. Tecnologias Usadas
