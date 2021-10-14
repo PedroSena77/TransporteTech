@@ -43,7 +43,7 @@ Tal formato, tornava o processo lento tendo como principal motivo a não comunic
   <tr>
    <td align="center"><a href="https://github.com/PedroSena77"><img src="https://avatars.githubusercontent.com/u/90586396?v=4" width="100px;" alt=""/><br /><sub><b>Pedro Sena</b></sub></a></td>
    <td align="center"><a href="https://github.com/Serpa27"><img src="https://avatars.githubusercontent.com/u/90014363?v=4" width="100px;" alt=""/><br /><sub><b>Mariane Serpa</b></sub></a></td>
-   
+   <td align="center"><a href="https://github.com/Kevmorn"><img src="https://scontent.fsdu12-1.fna.fbcdn.net/v/t1.6435-9/52582639_2088183364601729_3526006088015020032_n.jpg?_nc_cat=100&ccb=1-5&_nc_sid=09cbfe&_nc_eui2=AeFg9_OcXVkHdWNQXIIS_gFi5FUafz0ahrHkVRp_PRqGsdEVzw-uYf5VQ2y9giR3QAIPN1l3Y7Xwjqp00TLwiBos&_nc_ohc=JWKgtQKitu8AX-Tc6Z7&_nc_ht=scontent.fsdu12-1.fna&oh=f26465f7cb2381d96dc1561cebe17e94&oe=618FF077" width="100px;" alt=""/><br /><sub><b>Cristiano Duro</b></sub></a></td>
    
    
    
