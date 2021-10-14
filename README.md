@@ -39,12 +39,12 @@ Tal formato, tornava o processo lento tendo como principal motivo a não comunic
 
 # Autores
 
-https://github.com/Rodrigoduartemendes
-https://github.com/ArthurOOliveira
-https://github.com/Serpa27
-https://github.com/vinicios-batista
-https://github.com/Kevmorn
-https://github.com/PedroSena77
+- https://github.com/Rodrigoduartemendes 
+- https://github.com/ArthurOOliveira
+- https://github.com/Serpa27
+- https://github.com/vinicios-batista
+- https://github.com/Kevmorn
+- https://github.com/PedroSena77
 
 # Exemplo
 
