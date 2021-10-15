@@ -34,6 +34,9 @@ Tal formato, tornava o processo lento tendo como principal motivo a não comunic
  
 # Tecnologias Usadas
 
+- [MYSQL](https://www.mysql.com)
+- [Astah UML](https://astah.net/products/free-student-license/)
+- [BR Modelo WEB](https://www.brmodeloweb.com/)
 
 
 # Contribuição
