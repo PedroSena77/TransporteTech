@@ -1,7 +1,7 @@
 # TransporteTech
 
 <tr>
-   <td align="center"><a><img src="https://user-images.githubusercontent.com/90586396/137403899-16cb391e-c382-4a5d-a04c-fe5a883c4d27.png" width="500px;"/a></td>
+   <td align="center"><a><img src="https://drive.google.com/file/d/1HWmAGo1HGu8dfDM_fAX4r4EbK0r49wuI/view" width="500px;"/a></td>
 </tr>
 
 # Sobre o Projeto
