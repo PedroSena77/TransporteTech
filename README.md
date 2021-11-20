@@ -26,12 +26,13 @@ Tal formato, tornava o processo lento tendo como principal motivo a não comunic
 
 # Requisitos Funcionais
  
-- 📌 Gerenciamento de jornada de motoristas
-- 📌 Gerenciamento de cálculo de gastos 
-- 📌 Gerenciamento de relatórios de frotas
-- 📌 Gerenciamento de dados de clientes
-- 📌 Gerenciamento de abastecimentos de conjuntos Mecânicos
+- 📌 O sistema deverá permitir manter dados de  clientes;
+- 📌 O sistema deverá  permitir manter dados de  colaboradores;
+- 📌 O sistema deverá exibir a  localização do caminhão;
+- 📌 O sistema deverá manter o histórico de rotas do motorista;
+- 📌 O sistema deverá manter jornada de trabalho do motorista;
  
+
 # Tecnologias Usadas
 
 - [MYSQL](https://www.mysql.com)
