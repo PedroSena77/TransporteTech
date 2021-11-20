@@ -1,11 +1,19 @@
 
 # Atividade criação banco de dados(MySQL)
 
-#1 Recursos Humanos(RH): O setor de Recursos Humanos de uma determinada organização, rastreia informações sobre os funcionários e as instalações da empresa. Cada funcionário da empresa, possui um número de identificação, e-mail, código de identificação do cargo, salário e um gerente responsável por ele; além disso, alguns funcionários ganham uma porcentagem de comissão no final do mês.
-A empresa também rastreia informações sobre empregos dentro da organização. Cada cargo possui um código de identificação, nome e a faixa salarial mínima e máxima para o cargo. Alguns funcionários estão há muito tempo na empresa e ocupam diferentes cargos dentro da empresa. Quando um funcionário se demite, o tempo de trabalho do funcionário, o número de identificação do cargo e o departamento ficam armazenados.
-Nossa empresa é regionalmente diversa, portanto, ela rastreia as localizações de seus depósitos e departamentos. Cada funcionário é atribuído a um departamento e cada departamento é identificado por um número de departamento exclusivo. Cada departamento está associado a um local e cada local possui um endereço completo que inclui o nome da rua, CEP,  cidade, estado e o código do país.
-Nos locais onde os departamentos e depósitos estão localizados, a empresa registra detalhes como: o nome do país, símbolo da moeda, nome da moeda e a região onde o país está localizado geograficamente.
-Processamento de Pedidos: O processamento de pedidos representa várias atividades incluídas no ciclo do pedido do cliente. Mais concretamente, as atividades são: a preparação, a transmissão, o recebimento e expedição do pedido e o relatório da situação do pedido. Dependendo do tipo do pedido estas atividades necessitam de um determinado tempo para serem completadas. 
+#1 Recursos Humanos(RH): O setor de Recursos Humanos de uma determinada organização, rastreia informações sobre os funcionários e as instalações da empresa. 
+Cada funcionário da empresa, possui um número de identificação, e-mail, código de identificação do cargo, salário e um gerente responsável por ele;
+além disso, alguns funcionários ganham uma porcentagem de comissão no final do mês.
+A empresa também rastreia informações sobre empregos dentro da organização. Cada cargo possui um código de identificação, n
+ome e a faixa salarial mínima e máxima para o cargo. Alguns funcionários estão há muito tempo na empresa e ocupam diferentes cargos dentro da empresa. 
+Quando um funcionário se demite, o tempo de trabalho do funcionário, o número de identificação do cargo e o departamento ficam armazenados.
+Nossa empresa é regionalmente diversa, portanto, ela rastreia as localizações de seus depósitos e departamentos. 
+Cada funcionário é atribuído a um departamento e cada departamento é identificado por um número de departamento exclusivo. 
+Cada departamento está associado a um local e cada local possui um endereço completo que inclui o nome da rua, CEP,  cidade, estado e o código do país.
+Nos locais onde os departamentos e depósitos estão localizados, a empresa registra detalhes como: o nome do país, símbolo da moeda, 
+nome da moeda e a região onde o país está localizado geograficamente.
+Processamento de Pedidos: O processamento de pedidos representa várias atividades incluídas no ciclo do pedido do cliente. 
+Mais concretamente, as atividades são: a preparação, a transmissão, o recebimento e expedição do pedido e o relatório da situação do pedido. Dependendo do tipo do pedido estas atividades necessitam de um determinado tempo para serem completadas. 
 
 
 
