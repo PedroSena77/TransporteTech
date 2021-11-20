@@ -16,9 +16,6 @@ Processamento de Pedidos: O processamento de pedidos representa várias atividad
 Mais concretamente, as atividades são: a preparação, a transmissão, o recebimento e expedição do pedido e o relatório da situação do pedido.
 Dependendo do tipo do pedido estas atividades necessitam de um determinado tempo para serem completadas. 
 
-<tr>
-   <td align="center"><a><img src="https://scontent.fplu23-1.fna.fbcdn.net/v/t39.30808-6/259581412_5290460800981138_2255314457456154543_n.jpg?_nc_cat=106&_nc_rgb565=1&ccb=1-5&_nc_sid=730e14&_nc_eui2=AeHXhoHM8YbzlMIFv4T0palqTuFteD2TVZ9O4W14PZNVn95P7rIzMnV6oI1tfWHGRDcUmapNmNvzRW4GF-1XYooQ&_nc_ohc=G3GRKdQA9TcAX9oZTnq&tn=qF7lx_EQKR1vvUgI&_nc_ht=scontent.fplu23-1.fna&oh=c99079e5e4c7c37b6b2325b832d8bd8b&oe=619D0C52" width="500px;"/a></td>
-</tr>
 
 #2 O setor de processamento de pedidos de uma empresa rastreia os estoques de produtos e as vendas de produtos dela por meio de vários canais. 
 A empresa vende diversos produtos, tais como: hardware e software de computador, música, roupas e ferramentas. 
@@ -44,6 +41,5 @@ O representante de vendas pode ou não ser a mesma pessoa que o gerente de conta
 Se um pedido for feito pela Internet, nenhum representante de vendas será registrado. Além das informações do pedido, 
 a empresa também rastreia o número de itens pedidos, o preço unitário e os produtos pedidos.
 
-<tr>
-<td align="https://scontent.fplu23-1.fna.fbcdn.net/v/t39.30808-6/s600x600/259520330_5290460797647805_1652784637782423534_n.jpg?_nc_cat=110&_nc_rgb565=1&ccb=1-5&_nc_sid=730e14&_nc_eui2=AeEY0d2szr0lNssVcoP76D1NRJps_I0Wy-lEmmz8jRbL6fuHaUZedZceVkPL112P6C644wYxuCEbsuVY822pbQMs&_nc_ohc=JbKRyg-VybcAX_MgpO1&_nc_ht=scontent.fplu23-1.fna&oh=3bfde9d71dc0f8d2f80750f2ea32aea2&oe=619D4AB5"/a></td>
-</tr>
+
+IMAGENS ADICIONADAS NO REPOSITORIO ISSUES.
