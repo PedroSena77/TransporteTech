@@ -13,7 +13,11 @@ Cada departamento está associado a um local e cada local possui um endereço co
 Nos locais onde os departamentos e depósitos estão localizados, a empresa registra detalhes como: o nome do país, símbolo da moeda, 
 nome da moeda e a região onde o país está localizado geograficamente.
 Processamento de Pedidos: O processamento de pedidos representa várias atividades incluídas no ciclo do pedido do cliente. 
-Mais concretamente, as atividades são: a preparação, a transmissão, o recebimento e expedição do pedido e o relatório da situação do pedido. Dependendo do tipo do pedido estas atividades necessitam de um determinado tempo para serem completadas. 
+Mais concretamente, as atividades são: a preparação, a transmissão, o recebimento e expedição do pedido e o relatório da situação do pedido.
+Dependendo do tipo do pedido estas atividades necessitam de um determinado tempo para serem completadas. 
+
+
+![Screenshot](screenshot.png)
 
 
 
